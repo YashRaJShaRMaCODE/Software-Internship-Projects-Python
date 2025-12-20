@@ -25,6 +25,11 @@ at Cognetix Technology. The projects are divided into Foundational and Intermedi
 - Bank Customer Churn Analysis
 - Interactive Sales Dashboard
 
+### Advanced
+- Retail Sales Forecasting Using Time Series Analysis
+- Customer Segmentation Using K-Means Clustering
+- Sentiment Analysis of Customer Reviews Using Natural Language Processing
+
 ## Outcome
 These projects demonstrate practical data handling, exploratory data analysis,
 data visualization, and business insight generation skills.
